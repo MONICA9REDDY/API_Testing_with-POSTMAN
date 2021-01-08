@@ -1,0 +1,13 @@
+{
+    "name":"mona",
+    "age": 28,
+    "salary": 80000,
+    "skills":["java","manual testing","automation","api-testing"],
+    "userInfo":{
+        "name":"moni",
+        "age":28,
+        "company":"QSPs",
+        "salary":null,
+        "testValue":true }
+ 
+}
